@@ -2,7 +2,7 @@
 Simple go server to understand http request and forms
 
 ## UML Diagram:
-![alt text]([http://url/to/img.png](https://github.com/n5hossai/go-server/blob/main/go-server.uml.png))
+![](https://github.com/n5hossai/go-server/blob/main/go-server.uml.png)
 
 ## Run and Play:
 - Download the file in a directory
